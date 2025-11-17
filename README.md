@@ -9,6 +9,7 @@ This project performs RFM analysis on e-commerce transaction data to segment cus
 
 The analysis includes data preprocessing, exploratory data analysis, RFM score calculation, customer segmentation, visualization, and business recommendations.
 
+
 ## 🗂️ Project Structure
 
 ```text
